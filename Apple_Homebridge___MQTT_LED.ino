@@ -1,5 +1,5 @@
 /* Project name: Apple Homebridge – MQTT LED
-   Project URI: https://www.studiopieters.nl/?p=3866&preview=true
+   Project URI: https://www.studiopieters.nl/apple-homebridge-mqtt-led
    Description: Apple Homebridge Turn On / OFF A LED OVER MQTT
    Version: 0.2.1
    License: MIT  */
